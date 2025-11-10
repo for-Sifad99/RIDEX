@@ -11,8 +11,8 @@
 
 ## 🌐 Project Links
 
-- **Frontend Repository**: [GitHub - RideX Frontend](https://github.com/rubel6610/Ridex-Frontend)
-- **Backend Repository**: [GitHub - RideX Backend](https://github.com/rubel6610/ridex-backend)
+- **Frontend Repository**: [RideX Frontend](https://github.com/rubel6610/Ridex-Frontend)
+- **Backend Repository**: [RideX Backend](https://github.com/rubel6610/ridex-backend)
 
 ---
 
