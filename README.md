@@ -22,65 +22,14 @@
 
 Built with modern technologies, RideX offers a complete ecosystem with user authentication, real-time tracking, payment processing, chat functionality, and analytics dashboard.
 
-## 🎯 Main Goals
+## 🚀 My Contributions
 
-- **Connect Users & Drivers**: Create a reliable platform for ride booking and driver matching
-- **Real-time Tracking**: Provide live location tracking and route optimization
-- **Seamless Payments**: Integrate secure payment processing with multiple options
-- **User Experience**: Deliver an intuitive, responsive interface for all devices
-- **Safety & Trust**: Implement rating systems and communication features
+- Smart Ride Booking System ( Full backend )
+- Advanced Payment System ( Full throught sslcommarze )
+- Become A Rider ( Full done with Ai face verify )
+- Ai blog generate
+- Cleant Landing full UI
 
-## 🚀 Key Features
-
-### 🗺️ **Smart Ride Booking System**
-- Interactive map integration with location selection
-- Dynamic fare calculation based on distance and vehicle type
-- Support for multiple vehicle options (Bike, Car, CNG)
-- Location autocomplete with geocoding
-- Road-following routes with OSRM integration
-
-### 📍 **Live Tracking & Navigation**
-- Real-time location updates with driver tracking
-- Interactive map markers with custom vehicle icons
-- ETA calculations for accurate arrival time predictions
-- Route optimization for shortest path calculation
-
-### 💳 **Advanced Payment System**
-- Multiple payment methods support (Cash, Card, Digital wallets)
-- Secure transaction processing with encryption
-- Automatic receipt generation
-- Complete payment history and analytics
-
-### ⭐ **Review & Rating System**
-- 5-star interactive rating system
-- Comment functionality with character limits
-- Driver performance analytics
-- Review history tracking
-
-### 💬 **Real-time Communication**
-- In-app chat system between riders and passengers
-- Support chat for user assistance
-- Message notifications with real-time alerts
-- Persistent chat history
-
-### 📊 **Dynamic Analytics Dashboard**
-- User dashboard with ride statistics and spending analytics
-- Rider dashboard with earnings and performance metrics
-- Admin dashboard with platform-wide statistics
-- Interactive charts with data visualization
-
-### 🔔 **Notification System**
-- Ride status updates in real-time
-- Message alerts with toast notifications
-- Support notifications for important messages
-- System announcements and alerts
-
-### 🎨 **Modern UI/UX**
-- Responsive design for all device sizes
-- Dark/light theme switching capability
-- Skeleton loading states for better UX
-- Smooth animations and transitions
-- Consistent design with modern components
 
 ## 🛠️ Technology Stack
 
