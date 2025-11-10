@@ -47,9 +47,7 @@ Built with modern technologies, RideX offers a complete ecosystem with user auth
 - **Node.js** - JavaScript runtime environment
 - **Express.js** - Web application framework
 - **MongoDB** - NoSQL database for data storage
-- **Mongoose** - MongoDB object modeling
 - **Socket.IO** - Real-time bidirectional communication
-- **JWT** - Authentication and authorization
 - **Bcrypt** - Password hashing for security
 
 ## 🏗️ Project Structure
@@ -114,47 +112,6 @@ cp .env.example .env
 npm run dev
 ```
 
-## 📱 Key Pages & Functionality
-
-### User Side
-- **Home Page** - Main landing page with featured services
-- **Sign In / Register** - User authentication system
-- **Dashboard** - User profile and ride management
-- **Ride Booking** - Interactive map-based booking system
-- **Payment Processing** - Secure payment handling
-- **Ride History** - Past ride records and receipts
-- **Reviews** - Rating and feedback system
-
-### Rider Side
-- **Become Rider** - Registration process for drivers
-- **Rider Dashboard** - Earnings and ride management
-- **Live Tracking** - Real-time location sharing
-- **Earnings Analytics** - Income tracking and statistics
-
-### Admin Panel
-- **User Management** - Admin controls for user accounts
-- **Rider Management** - Driver verification and management
-- **Payment Management** - Transaction oversight
-- **Analytics Dashboard** - Platform-wide statistics
-- **Blog Management** - Content management system
-- **Promotions** - Offer and discount management
-
-## 🔐 Security Features
-
-- **JWT Authentication** - Secure token-based authentication
-- **Password Encryption** - Bcrypt hashing for secure storage
-- **CORS Protection** - Controlled cross-origin requests
-- **Input Validation** - Data sanitization and validation
-- **Rate Limiting** - API abuse prevention
-- **Environment Variables** - Secure configuration management
-
-## 📈 Performance Optimization
-
-- **Code Splitting** - Dynamic imports for faster loading
-- **Caching Strategies** - Efficient data caching
-- **Database Indexing** - Optimized MongoDB queries
-- **Bundle Optimization** - Minified and compressed assets
-- **Lazy Loading** - Component lazy loading for better UX
 
 ## 🤝 Contributing
 
