@@ -26,14 +26,14 @@ Built with modern technologies, RideX offers a complete ecosystem with user auth
 
 - Smart Ride Booking System ( Full backend )
 - Advanced Payment System ( Full throught sslcommarze )
-- Become A Rider ( Full done with Ai face verify )
-- Ai blog generate
+- Become A Rider ( Full done with AI face verify )
+- AI Blog Generate
 - Cleant Landing full UI
 
 
 ## 🛠️ Technology Stack
 
-### **Frontend** ([RideX-Frontend](https://github.com/yourusername/ridex-frontend))
+### **Frontend**
 - **Next.js 15.5.4** - React framework with App Router
 - **React 19** - UI library with hooks and functional components
 - **Tailwind CSS 4** - Utility-first CSS framework
@@ -43,7 +43,7 @@ Built with modern technologies, RideX offers a complete ecosystem with user auth
 - **Recharts** - Data visualization
 - **Axios** - HTTP client for API requests
 
-### **Backend** ([RideX-Backend](https://github.com/yourusername/ridex-backend))
+### **Backend** 
 - **Node.js** - JavaScript runtime environment
 - **Express.js** - Web application framework
 - **MongoDB** - NoSQL database for data storage
